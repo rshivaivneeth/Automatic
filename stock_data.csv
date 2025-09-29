@@ -1,0 +1,6 @@
+Symbol,Company Name,Current Price,Previous Close,Open,Day Low,Day High,52 Week Low,52 Week High,Volume,Market Cap,P/E Ratio,Dividend Yield,Beta,Sector,Industry
+AAPL,Apple Inc.,207.57,209.05,208.38,207.17,209.84,169.21,260.1,64700006,3100223995904,31.545593,0.5,1.199,Technology,Consumer Electronics
+GOOGL,Alphabet Inc.,191.9,196.53,195.71,191.1,195.99,140.53,207.05,50575250,2326058237952,20.458422,0.44,1.005,Communication Services,Internet Content & Information
+MSFT,Microsoft Corporation,533.5,513.24,555.225,531.9,555.45,344.79,555.45,51220706,3965596205056,39.055637,0.62,1.033,Technology,Software - Infrastructure
+TSLA,"Tesla, Inc.",308.27,319.04,319.585,306.1,321.3699,182.0,488.54,84232351,994309439488,185.70482,N/A,2.398,Consumer Cyclical,Auto Manufacturers
+AMZN,"Amazon.com, Inc.",234.11,230.19,235.775,231.4,236.53,151.61,242.52,95980422,2485405351936,35.6875,N/A,1.337,Consumer Cyclical,Internet Retail

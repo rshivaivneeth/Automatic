@@ -1,0 +1,13 @@
+flask
+pytz
+pandas
+tabulate
+yfinance
+twilio
+requests
+gunicorn
+TA-Lib
+numpy
+schedule
+psutil
+statistics
