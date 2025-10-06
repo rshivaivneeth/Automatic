@@ -2865,7 +2865,7 @@ def main_advanced_trading_loop():
                 summary_msg += f"🎯 Win rate: {(memory.profitable_trades/memory.total_trades*100):.1f}%" if memory.total_trades > 0 else "🎯 Win rate: 0%"
                 summary_msg += f"\n💾 Memory: {process_memory:.1f}MB"
 
-                send_telegram_message(summary_msg)
+                # send_telegram_message(summary_msg)
             
             logger.info(f"[{current_time.strftime('%H:%M:%S')}] Cycle complete. Next analysis in {CHECK_INTERVAL//60} minutes...")
             
